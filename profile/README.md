@@ -1,6 +1,8 @@
-**Howdy** 👋 The Cultural Heritage Framework (CHF) consists of modular TYPO3 extensions. Version 2 is *not released yet*.
+**Howdy! 👋 The version 2 rewrite is in full swing. It is not released yet.**
 
-- *Quick overview:* [introductory slides](#)
+The Cultural Heritage Framework (CHF) consists of modular TYPO3 extensions to build cultural heritage portals and editing environments.
+
+- *Quick overview:* [introductory slides](https://github.com/digicademy-chf/admin/blob/main/IntroductorySlides.pdf)
 - *Main component with intro docs:* [CHF Base](#)
 - *Data model docs:* [CHF Bib](#), [CHF Map](#), [CHF Glossary](#), [CHF Lex](#), CHF Object, CHF Media, CHF Book, CHF Music*, CHF Letter*
 - *Additional helper docs:* LOD, LOD SRU*, LOD SPARQL*, LOD OAI-PMH*, QA, VIS
