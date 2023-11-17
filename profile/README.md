@@ -3,9 +3,9 @@
 The CHF consists of modular TYPO3 extensions to build cultural heritage apps with editing functionality.
 
 - *Quick overview:* [introductory slides](https://github.com/digicademy-chf/admin/blob/main/IntroductorySlides.pdf)
-- *Main component with intro docs:* [CHF Base](#)
-- *Data model docs:* [CHF Bib](#), [CHF Lex](#), [CHF Map](#), [CHF Gloss](#), [CHF Pub](#), [CHF Object](#), [CHF Media](#), CHF Music*, CHF Letter*
-- *Additional helper docs:* LOD, LOD SRU*, LOD SPARQL*, LOD OAI-PMH*, [QA](#), VIS
-- *Sitepackage boilerplate docs:* [CHF Project](#)
+- *Main component with intro docs:* [CHF Base](https://digicademy-chf.github.io/chf_base)
+- *Data model docs:* [CHF Bib](https://digicademy-chf.github.io/chf_bib), [CHF Lex](https://digicademy-chf.github.io/chf_lex), [CHF Map](https://digicademy-chf.github.io/chf_map), [CHF Gloss](https://digicademy-chf.github.io/chf_gloss), [CHF Pub](https://digicademy-chf.github.io/chf_pub), [CHF Object](https://digicademy-chf.github.io/chf_object), [CHF Media](https://digicademy-chf.github.io/chf_media), CHF Music*, CHF Letter*
+- *Additional helper docs:* LOD, LOD SRU*, LOD SPARQL*, LOD OAI-PMH*, [QAD](https://digicademy.github.io/qad), [VIS](https://digicademy.github.io/vis)
+- *Sitepackage boilerplate docs:* [CHF Project](https://digicademy-chf.github.io/chf_project)
 
 Components marked with an asterisk are planned but have no immediate production path. Feel free to use the discussion board or message us if you would like to get involved. All components of the CHF are governed by the [Contributor Covenant code of conduct](https://github.com/digicademy-chf/.github/blob/main/CODE_OF_CONDUCT.md). Please keep this in mind in all interactions.
