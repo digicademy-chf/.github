@@ -6,6 +6,7 @@ The CHF consists of modular TYPO3 extensions to build cultural heritage apps wit
 - *Introduction:* [CHF Base](https://digicademy-chf.github.io/chf_base)
 - *Data models:* [CHF Bib](https://digicademy-chf.github.io/chf_bib), [CHF Lex](https://digicademy-chf.github.io/chf_lex), [CHF Map](https://digicademy-chf.github.io/chf_map), [CHF Gloss](https://digicademy-chf.github.io/chf_gloss), [CHF Pub](https://digicademy-chf.github.io/chf_pub), [CHF Object](https://digicademy-chf.github.io/chf_object), [CHF Media](https://digicademy-chf.github.io/chf_media), CHF Music*, CHF Letter*
 - *Additional helpers:* [ENDPT](https://digicademy.github.io/endpt)*, [DSH](https://digicademy.github.io/dsh), [VIS](https://digicademy.github.io/vis)
+- *CSS framework:* [MDLR](https://github.com/digicademy/mdlr)
 - *Sitepackage boilerplate:* [CHF Project](https://digicademy-chf.github.io/chf_project), [CHF Container](https://digicademy-chf.github.io/chf_container)
 
 Components marked with an asterisk are planned but have no immediate implementation path. Feel free to use the discussion board or message us if you would like to get involved. All components of the CHF are governed by the [Contributor Covenant code of conduct](https://github.com/digicademy-chf/.github/blob/main/CODE_OF_CONDUCT.md). Please keep this in mind in all interactions.
